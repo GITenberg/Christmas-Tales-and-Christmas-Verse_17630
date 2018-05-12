@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/238
     wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17630#Christmas-Tales-and-Christmas-Verse
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-01-29'
 gutenberg_type: Text
